@@ -89,8 +89,8 @@ let vm = new Vue({
         title: "击退战第二轮A开始",
         end_y: "2019",
         end_m: "6",
-        end_d: "10",
-        end_h: "14",
+        end_d: "1",
+        end_h: "15",
         end_mi: "00",
       },
       
