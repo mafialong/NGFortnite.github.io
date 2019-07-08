@@ -41,7 +41,7 @@ let vm = new Vue({
       },
 
       {
-        title: "世界杯-嗨皮岛总决赛",
+        title: "世界杯-嗨皮岛总决赛开幕",
         end_y: "2019",
         end_m: "07",
         end_d: "27",
@@ -50,7 +50,7 @@ let vm = new Vue({
       },
 	  
       {
-        title: "世界杯-双排总决赛",
+        title: "世界杯-双排总决赛开幕",
         end_y: "2019",
         end_m: "07",
         end_d: "28",
@@ -59,7 +59,7 @@ let vm = new Vue({
       },
 
       {
-        title: "世界杯-单排总决赛",
+        title: "世界杯-单排总决赛开幕",
         end_y: "2019",
         end_m: "07",
         end_d: "29",
