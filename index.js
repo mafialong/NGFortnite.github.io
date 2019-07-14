@@ -36,7 +36,7 @@ let vm = new Vue({
         end_y: "2019",
         end_m: "07",
         end_d: "16",
-        end_h: "21",
+        end_h: "20",
         end_mi: "00",
       },
 
