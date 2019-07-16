@@ -23,11 +23,20 @@ let vm = new Vue({
       // 创建一个新倒计时板的时候复制到这里结束
 
       {
-        title: "大事件",
+        title: "国际服大事件",
         end_y: "2019",
         end_m: "07",
         end_d: "21",
         end_h: "02",
+        end_mi: "00",
+      },
+	  
+	        {
+        title: "国服大事件",
+        end_y: "2019",
+        end_m: "07",
+        end_d: "21",
+        end_h: "15",
         end_mi: "00",
       },
 	  
