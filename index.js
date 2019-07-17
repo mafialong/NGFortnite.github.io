@@ -45,8 +45,8 @@ let vm = new Vue({
         end_y: "2019",
         end_m: "07",
         end_d: "27",
-        end_h: "00",
-        end_mi: "30",
+        end_h: "01",
+        end_mi: "00",
       },
 	  
       {
@@ -54,8 +54,8 @@ let vm = new Vue({
         end_y: "2019",
         end_m: "07",
         end_d: "28",
-        end_h: "00",
-        end_mi: "30",
+        end_h: "01",
+        end_mi: "00",
       },
 
       {
@@ -63,8 +63,8 @@ let vm = new Vue({
         end_y: "2019",
         end_m: "07",
         end_d: "29",
-        end_h: "00",
-        end_mi: "30",
+        end_h: "01",
+        end_mi: "00",
       },
       // 创建一个新倒计时板的时候在上一行插入
 
