@@ -39,15 +39,6 @@ let vm = new Vue({
         end_h: "15",
         end_mi: "00",
       },
-	  
-	  {
-        title: "夏日14天结束",
-        end_y: "2019",
-        end_m: "07",
-        end_d: "16",
-        end_h: "20",
-        end_mi: "00",
-      },
 
       {
         title: "世界杯-嗨皮岛总决赛开幕",
