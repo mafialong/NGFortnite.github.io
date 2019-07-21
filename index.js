@@ -23,7 +23,7 @@ let vm = new Vue({
       // 创建一个新倒计时板的时候复制到这里结束
 
       {
-        title: "世界杯-ProAm/嗨皮岛总决赛",
+        title: "ProAm/嗨皮岛总决赛",
         end_y: "2019",
         end_m: "07",
         end_d: "27",
