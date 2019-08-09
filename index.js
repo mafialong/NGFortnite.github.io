@@ -32,10 +32,10 @@ let vm = new Vue({
       },
 
       {
-        title: "机甲小队(限时)",
+        title: "第二轮限时任务",
         end_y: "2019",
         end_m: "08",
-        end_d: "08",
+        end_d: "15",
         end_h: "21",
         end_mi: "00",
       },
