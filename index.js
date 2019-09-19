@@ -41,10 +41,10 @@ let vm = new Vue({
       },
 	  
 	  {
-        title: "第七轮限时任务",
+        title: "第八轮限时任务",
         end_y: "2019",
         end_m: "09",
-        end_d: "19",
+        end_d: "26",
         end_h: "21",
         end_mi: "00",
       },
