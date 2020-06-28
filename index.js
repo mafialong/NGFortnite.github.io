@@ -1,5 +1,4 @@
-// Fortnite Events Countdownon in NGA board: https://bbs.nga.cn/read.php?tid=17828458
-// Referencing AND recoding from FGO Events Countdown in NGA board: https://github.com/Seraphix138/Seraphix138.github.io
+// Fortnite Event Countdown in NGA board: https://bbs.nga.cn/read.php?tid=17828458
 
 let vm = new Vue({
   el: '#index-body',
